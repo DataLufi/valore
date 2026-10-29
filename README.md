@@ -136,11 +136,11 @@ Python (openpyxl) → exportação PDF sem VBA
  
 | Milestone | Prazo | Status |
 |---|---|---|
-| 1 — Setup e Dataset Sintético | 01/Jun/2026 | ⏳ Aguardando início |
-| 2 — SQL Avançado e EDA | 15/Jun/2026 | ⏳ Aguardando M1 |
-| 3 — Power BI e DAX | 29/Jun/2026 | ⏳ Aguardando M2 |
-| 4 — Excel e Modelo de Estresse | 13/jul/2026 | ⏳ Aguardando M3 |
-| 5 — Entrega Final e Publicação | 03/Oago/2026 | ⏳ Aguardando M4 |
+| 1 — Setup e Dataset Sintético | em definição | ⏳ Aguardando início |
+| 2 — SQL Avançado e EDA | em definição | ⏳ Aguardando M1 |
+| 3 — Power BI e DAX | em definição | ⏳ Aguardando M2 |
+| 4 — Excel e Modelo de Estresse | em definição | ⏳ Aguardando M3 |
+| 5 — Entrega Final e Publicação | em definição | ⏳ Aguardando M4 |
  
 ---
  
